@@ -1,14 +1,15 @@
  #Shell Script
 
- **steps**
+ **steps
  *create repo in Github
- *Clone repo in local laptop
+ *clone repo in local laptop
  *start developing
  *Add the files in temp area
+ 
  ```
  git add <file-name>
  ```
- *commit changes
+ commit changes
  ```
  git commit -m "why-you-committed"
  ```
